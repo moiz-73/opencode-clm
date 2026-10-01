@@ -1,0 +1,4 @@
+﻿.clm/
+node_modules/
+*.log
+*.bak
